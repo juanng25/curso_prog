@@ -1,0 +1,12 @@
+Comandos linux
+pwd ubicacion de un directorio
+ls contenido de un directorio
+cd te permite cambir de directorio
+mkdir crear un folder nuevo
+cd .. echar para atras
+rmdir eliminar folder
+touch crear un archivo
+rm elimina el archivo
+nano ingresar al archivo 
+cat imprimer contenido del archivo
+
