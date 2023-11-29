@@ -1,0 +1,8 @@
+file= open("anime.txt",'x')
+file.write("atack of titan ")
+file.write("fma ")
+file.write("hxh")
+file.close()
+file= open("anime.txt",'r')
+print(file.read())
+file.close()
